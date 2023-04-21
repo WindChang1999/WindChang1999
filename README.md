@@ -1,9 +1,19 @@
-### Hi there is jingchang👋
+### <div align="center">I'm Jingchang Qin, a master student of CS@ZJU</div>  
+  
 
-<!--
-**WindChang1999/WindChang1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+- 🔭 I’m currently working on Alibaba Group as an internship  
+- 🌱 I’m currently learning Java virtual machine, memory system and operating system  
 
-- Currently, I'm a master student of college of computer science and engineering, Zhejiang University.
-- I’m currently working on Alibaba Group as a intership.
-- I’m currently learning programing languages runtime, computer architecture(mainly in memory system) and operating system.
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+<div align="center">  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+</div>
+</td></tr></table>  
+
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Windchang1999&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
