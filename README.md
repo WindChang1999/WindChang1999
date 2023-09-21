@@ -1,7 +1,6 @@
 ### <div align="center">I'm Jingchang Qin, a master student of CS@ZJU</div>  
   
 
-- 🔭 I’m currently working on Alibaba Group as an internship  
 - 🌱 I’m currently learning Java virtual machine, memory system and operating system  
 
 ## My Skill Set  
